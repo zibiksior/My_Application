@@ -40,7 +40,7 @@ public class MainActivity extends Activity {
 
     private void initComponents() {
         mojaLista = new ArrayList<Integer>();
-        mojaLista.add(1);
+        mojaLista.add(1);//kurwa
         mojaLista.add(2);
         mojaLista.add(3);
     }
